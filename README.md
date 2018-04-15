@@ -3,6 +3,7 @@ Recommended Medium Issues from IFTTT
 
 >> [link](https://github.com/artdvp/medium/issues)
 
+* [x] 2018-03-14 : [ลองแฮกช่องโหว่ที่ TrueMove-H ทำข้อมูลรั่วแบบ step-by-step](https://medium.com/@u0x/%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%AE%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%97%E0%B8%B5%E0%B9%88-truemove-h-%E0%B8%97%E0%B8%B3%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%81%E0%B8%9A%E0%B8%9A-step-by-step-e93f8b62e788?source=ifttt--------------1)
 * [x] 2018-03-21 : [แนะนำ Netlify: Frontend Hosting ที่มีทุกอย่างที่คุณต้องการ](https://stories.sellsuki.co.th/%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3-netlify-frontend-hosting-%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3-baa534a1d2a4)
 * [x] 2018-03-15 : [5-Hour Rule: Why you Should Spend Time Learning](https://hackernoon.com/5-hour-rule-why-you-should-spend-time-learning-2538aff50eed)
 * [x] 2018-03-13 : [7 Ways To Define A Component Template in VueJS](https://medium.com/js-dojo/7-ways-to-define-a-component-template-in-vuejs-c04e0c72900d)
